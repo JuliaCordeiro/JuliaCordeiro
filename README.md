@@ -30,8 +30,9 @@
 ## GitHub Infos 🔎
 <p align="center">
 <a href="https://github.com/JuliaCordeiro">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaCordeiro&layout=compact&theme=radical" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=JuliaCordeiro&theme=radical&include_all_commits=true&count_private=true&hide=issues,contribs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaCordeiro&theme=radical&layout=compact" />
+</a>
+<a href="https://github.com/JuliaCordeiro">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuliaCordeiro&count_private=true&include_all_commits=true&hide=issues,contribs&theme=radical" />
 </a>
 </p>
