@@ -4,7 +4,7 @@
 
 - 🎓 I'm a computer engineering student at IFTM (Brazil)
 - 📚 I like to learn different languages, exploring new possibilities.
-- 🌱 I'm looking to learn more about backend skills.
+- 🌱 I'm looking to learn more about backend and data skills.
 - 📑 Feel free to look at my [LinkedIn](https://www.linkedin.com/in/juliacordeirosilva/) for more infos about me.
 - 💪🏻 Fun fact: I'm a sports enthusiast.
 
